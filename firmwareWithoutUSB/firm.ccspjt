@@ -1,0 +1,23 @@
+[PROJECT]
+Target=firm.hex
+Processor_Text=PIC18F4550
+CCSVerions=5.015
+Compiler=PCH
+CCSVersion=5.015
+[Target Data]
+FileList=firm.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[D:\Projects\Microcontrollers\Termometro com comunicação USB\firmware\firm]
+Type=4
+[mru-list]
+1=firm.c
+[Opened Files]
+1=firm.c
+2=firm.h
+3=
+[firm.c]
+Type=4
+[Units]
+Count=1
+1=firm (main)
